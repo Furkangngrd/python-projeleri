@@ -1,1 +1,1 @@
-# python-projeleri
+# python ve oryantasyon projeleri
